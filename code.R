@@ -1,4 +1,4 @@
-#Say you are given a correlation matrix of 5 different scales along the means and SDs for each construct
+#Say you are given a correlation matrix of 5 different scales along their means and sd's
 
 #What might the variance of a composite variable of 2 or more scales be equal to?
 
